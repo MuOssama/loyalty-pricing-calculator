@@ -16,6 +16,7 @@ and ending at `K` (order N).
 ![Example Pricing Ramp](example.png)
 ![Chart](example2.png)
 
+
 ## Formulas
 
 **Normal / Linear ramp:**
