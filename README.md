@@ -13,7 +13,7 @@ and ending at `K` (order N).
 
 ## Example: T=200, K=190, N=5
 
-![Example Pricing Ramp](example.png)
+![Example Pricing Ramp](example.png)\
 ![Chart](example2.png)
 
 
