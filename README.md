@@ -17,6 +17,7 @@ and ending at `K` (order N).
 
 ## Chart
 ![Loyalty Discount Ramp Chart](example2.png)
+![Loylate CHart](example2.png)
 
 
 ## Formulas
